@@ -1,0 +1,19 @@
+1.to install any application in linux command is- yum install application name -y             @Swathi91 -pwd /aws
+ex: yum install git -y
+
+2. to download anything like jenkins ....command is - wget give pa
+
+3.to see how many packages are installed in our system-yum list installed -which httpd
+
+4.to see a particular word started with some letter - | grep
+ex: | grep jenkins* then it shows all words started with jenkins.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
+
+5. if config- it gives system information
+
+6.hostname -i it  gives ip adress
+
+7.chkconfig httpd on -to see the service is on
+
+8                                                                                              .
+
+                                                                .1. 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
